@@ -1,7 +1,1211 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5dfc7be1-d4c4-4e97-a454-a2000c0f0b63" name="Default" comment="" />
+    <list default="true" id="5dfc7be1-d4c4-4e97-a454-a2000c0f0b63" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/images/aquanote-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/images/leanna.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/images/octopus-rubescens.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/images/ryan.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/fontawesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/fontawesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/fontawesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/fontawesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/fontawesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/app/Resources/views/genus/show.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/src/AppBundle/Controller/GenusController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/js/notes.react.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/bootstrap/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/fontawesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/fontawesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_project_name/web/vendor/fontawesome/fonts/fontawesome-webfont.svg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Collator/Collator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bundle/Compiler/BundleCompilerInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bundle/Compiler/GenrbCompiler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bundle/Reader/BufferedBundleReader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bundle/Reader/BundleEntryReader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bundle/Reader/BundleEntryReaderInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bundle/Reader/BundleReaderInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bundle/Reader/IntlBundleReader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bundle/Reader/JsonBundleReader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bundle/Reader/PhpBundleReader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bundle/Writer/BundleWriterInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bundle/Writer/JsonBundleWriter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bundle/Writer/PhpBundleWriter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bundle/Writer/TextBundleWriter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Generator/AbstractDataGenerator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Generator/CurrencyDataGenerator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Generator/GeneratorConfig.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Generator/LanguageDataGenerator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Generator/LocaleDataGenerator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Generator/RegionDataGenerator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Generator/ScriptDataGenerator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Provider/CurrencyDataProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Provider/LanguageDataProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Provider/LocaleDataProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Provider/RegionDataProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Provider/ScriptDataProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Util/ArrayAccessibleResourceBundle.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Util/LocaleScanner.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Util/RecursiveArrayAccess.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Util/RingBuffer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DateFormatter/DateFormat/AmPmTransformer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DateFormatter/DateFormat/DayOfWeekTransformer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DateFormatter/DateFormat/DayOfYearTransformer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DateFormatter/DateFormat/DayTransformer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DateFormatter/DateFormat/FullTransformer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DateFormatter/DateFormat/Hour1200Transformer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DateFormatter/DateFormat/Hour1201Transformer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DateFormatter/DateFormat/Hour2400Transformer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DateFormatter/DateFormat/Hour2401Transformer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DateFormatter/DateFormat/HourTransformer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DateFormatter/DateFormat/MinuteTransformer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DateFormatter/DateFormat/MonthTransformer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DateFormatter/DateFormat/QuarterTransformer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DateFormatter/DateFormat/SecondTransformer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DateFormatter/DateFormat/TimezoneTransformer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DateFormatter/DateFormat/Transformer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DateFormatter/DateFormat/YearTransformer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DateFormatter/IntlDateFormatter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Exception/BadMethodCallException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Exception/ExceptionInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Exception/InvalidArgumentException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Exception/MethodArgumentNotImplementedException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Exception/MethodArgumentValueNotImplementedException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Exception/MethodNotImplementedException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Exception/MissingResourceException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Exception/NotImplementedException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Exception/OutOfBoundsException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Exception/ResourceBundleNotFoundException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Exception/RuntimeException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Exception/UnexpectedTypeException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Globals/IntlGlobals.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Intl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Locale.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Locale/Locale.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NumberFormatter/NumberFormatter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ResourceBundle/CurrencyBundle.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ResourceBundle/CurrencyBundleInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ResourceBundle/LanguageBundle.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ResourceBundle/LanguageBundleInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ResourceBundle/LocaleBundle.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ResourceBundle/LocaleBundleInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ResourceBundle/RegionBundle.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ResourceBundle/RegionBundleInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ResourceBundle/ResourceBundleInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/bin/autoload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/bin/common.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/bin/icu.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/bin/update-data.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/af.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/af_NA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ak.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/am.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ar_DJ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ar_ER.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ar_LB.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ar_SO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ar_SS.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/az.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/az_Cyrl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/be.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/bg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/bm.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/bn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/bo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/bo_IN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/br.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/bs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/bs_Cyrl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ca.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ca_FR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ce.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/cs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/cy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/da.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/de.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/de_CH.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/de_LI.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/de_LU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/dz.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ee.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/el.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_001.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_150.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_AG.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_AI.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_AU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_BB.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_BI.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_BM.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_BS.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_BW.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_BZ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_CA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_CC.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_CK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_CX.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_DK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_DM.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_ER.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_FJ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_FK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_GD.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_GG.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_GH.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_GI.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_GM.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_GY.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_IM.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_JE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_JM.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_KE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_KI.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_KN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_KY.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_LC.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_LR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_LS.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_MG.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_MO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_MS.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_MT.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_MU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_MW.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_MY.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_NA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_NF.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_NG.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_NH.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_NR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_NU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_NZ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_PG.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_PH.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_PK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_PN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_RW.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_SB.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_SC.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_SE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_SG.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_SH.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_SL.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_SS.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_SX.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_SZ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_TK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_TO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_TT.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_TV.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_TZ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_UG.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_VC.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_VU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_WS.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_ZA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/en_ZM.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_419.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_AR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_BO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_BR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_CL.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_CO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_CR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_CU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_DO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_EC.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_GQ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_GT.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_HN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_MX.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_NI.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_PA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_PE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_PH.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_PR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_PY.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_SV.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_US.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_UY.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/es_VE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/et.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/eu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fa_AF.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ff.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ff_GN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ff_MR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fo_DK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fr_BI.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fr_CA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fr_CD.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fr_DJ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fr_DZ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fr_GN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fr_HT.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fr_KM.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fr_LU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fr_MG.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fr_MR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fr_MU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fr_RW.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fr_SC.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fr_SY.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fr_TN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fr_VU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/fy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ga.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/gd.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/gl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/gu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ha.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ha_GH.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/he.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/hi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/hr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/hr_BA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/hu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/hy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/id.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ig.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/in.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/is.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/it.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/iw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ja.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ka.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ki.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/kk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/kl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/km.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/kn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ko.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ks.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ky.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/lb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/lg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ln.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ln_AO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/lo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/lt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/lu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/lv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/meta.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/mg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/mk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ml.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/mn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/mo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/mr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ms.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ms_BN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ms_SG.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/mt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/my.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/nb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/nd.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ne.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/nl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/nl_AW.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/nl_BQ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/nl_CW.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/nl_SR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/nl_SX.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/nn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/no.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/om.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/om_KE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/or.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/os.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/os_RU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/pa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/pa_Arab.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/pl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ps.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/pt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/pt_AO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/pt_CV.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/pt_LU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/pt_MO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/pt_MZ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/pt_PT.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/pt_ST.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/qu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/qu_BO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/qu_EC.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/rm.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/rn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ro.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ro_MD.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/root.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ru.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ru_BY.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ru_KG.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ru_KZ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ru_MD.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/rw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/se.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/se_SE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/sg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/sh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/si.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/sk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/sl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/sn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/so.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/so_DJ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/so_ET.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/so_KE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/sq.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/sq_MK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/sr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/sr_Latn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/sv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/sw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/sw_CD.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/sw_UG.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ta.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ta_LK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ta_MY.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ta_SG.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/te.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/th.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ti.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ti_ER.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/tl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/to.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/tr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ug.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/uk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ur.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/ur_IN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/uz.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/uz_Arab.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/uz_Cyrl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/vi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/yi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/yo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/yo_BJ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/zh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/zh_HK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/zh_Hans_HK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/zh_Hans_MO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/zh_Hans_SG.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/zh_Hant.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/zh_Hant_HK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/zh_Hant_MO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/zh_MO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/zh_SG.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/currencies/zu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/af.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ak.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/am.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ar_EG.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ar_LY.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ar_SA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/as.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/az.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/az_Cyrl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/be.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/bg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/bm.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/bn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/bn_IN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/bo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/br.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/bs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/bs_Cyrl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ca.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ce.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/cs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/cy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/da.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/de.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/de_AT.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/de_CH.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/de_LU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/dz.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ee.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/el.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/en.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/en_AU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/en_IN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/en_NZ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/eo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/es.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/es_419.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/es_AR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/es_BO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/es_CL.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/es_CO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/es_CR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/es_DO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/es_EC.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/es_GT.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/es_HN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/es_MX.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/es_NI.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/es_PA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/es_PE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/es_PR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/es_PY.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/es_SV.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/es_US.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/es_VE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/et.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/eu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/fa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/fa_AF.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ff.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/fi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/fo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/fr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/fr_BE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/fr_CA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/fr_CH.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/fy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ga.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/gd.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/gl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/gu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/gv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ha.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/he.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/hi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/hr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/hu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/hy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/id.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ig.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/in.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/is.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/it.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/iw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ja.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ka.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ki.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/kk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/kl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/km.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/kn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ko.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ks.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/kw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ky.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/lb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/lg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ln.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/lo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/lt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/lu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/lv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/meta.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/mg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/mk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ml.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/mn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/mo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/mr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ms.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/mt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/my.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/nb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/nd.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ne.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/nl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/nn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/no.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/om.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/or.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/os.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/pa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/pa_Arab.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/pl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ps.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/pt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/pt_PT.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/qu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/rm.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/rn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ro.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ro_MD.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ru.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/rw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/se.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/se_FI.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sh_BA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/si.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/so.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sq.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sr_BA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sr_Cyrl_BA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sr_Cyrl_ME.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sr_Cyrl_XK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sr_Latn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sr_Latn_BA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sr_Latn_ME.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sr_Latn_XK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sr_ME.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sr_XK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sv_FI.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sw_CD.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/sw_KE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ta.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/te.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/th.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ti.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/tl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/to.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/tr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ug.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/uk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ur.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/ur_IN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/uz.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/uz_Arab.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/uz_Cyrl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/vi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/yi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/yo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/yo_BJ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/zh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/zh_HK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/zh_Hant.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/zh_Hant_HK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/languages/zu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/af.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ak.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/am.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ar_EG.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ar_LY.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ar_SA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/as.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/az.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/az_AZ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/az_Cyrl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/be.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/bg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/bm.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/bn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/bn_IN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/bo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/br.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/bs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/bs_BA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/bs_Cyrl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ca.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ce.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/cs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/cy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/da.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/de.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/de_AT.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/de_CH.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/de_LU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/dz.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ee.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/el.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/en.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/en_IN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/en_NH.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/en_RH.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/eo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/es.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/es_419.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/es_AR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/es_BO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/es_CL.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/es_CO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/es_CR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/es_DO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/es_EC.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/es_GT.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/es_HN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/es_MX.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/es_NI.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/es_PA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/es_PE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/es_PY.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/es_US.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/es_VE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/et.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/eu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/fa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/fa_AF.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ff.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/fi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/fo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/fr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/fr_BE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/fr_CA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/fr_CH.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/fy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ga.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/gd.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/gl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/gu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/gv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ha.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/he.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/hi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/hr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/hu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/hy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/id.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ig.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/in.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/in_ID.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/is.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/it.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/iw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/iw_IL.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ja.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ka.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ki.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/kk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/kl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/km.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/kn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ko.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ko_KP.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ks.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/kw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ky.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/lb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/lg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ln.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/lo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/lt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/lu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/lv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/meta.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/mg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/mk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ml.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/mn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/mo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/mr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ms.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/mt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/my.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/nb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/nd.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ne.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/nl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/nn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/no.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/no_NO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/no_NO_NY.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/om.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/or.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/os.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/pa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/pa_Arab.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/pa_IN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/pa_PK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/pl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ps.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/pt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/pt_PT.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/qu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/rm.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/rn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ro.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ro_MD.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ru.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ru_UA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/rw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/se.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/se_FI.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sh_BA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sh_CS.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sh_YU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/si.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/so.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sq.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sr_BA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sr_CS.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sr_Cyrl_BA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sr_Cyrl_CS.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sr_Cyrl_ME.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sr_Cyrl_XK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sr_Cyrl_YU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sr_Latn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sr_Latn_BA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sr_Latn_CS.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sr_Latn_ME.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sr_Latn_XK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sr_Latn_YU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sr_ME.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sr_RS.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sr_XK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sr_YU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sv_FI.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sw_CD.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/sw_KE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ta.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/te.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/th.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ti.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/tl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/tl_PH.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/to.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/tr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ug.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/uk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ur.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/ur_IN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/uz.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/uz_AF.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/uz_Arab.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/uz_Cyrl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/uz_UZ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/vi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/yi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/yo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/yo_BJ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/zh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/zh_CN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/zh_HK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/zh_Hant.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/zh_Hant_HK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/zh_MO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/zh_SG.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/zh_TW.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/locales/zu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/af.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ak.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/am.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ar_LY.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ar_SA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/as.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/az.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/az_Cyrl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/be.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/bg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/bm.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/bn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/bn_IN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/bo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/bo_IN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/br.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/bs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/bs_Cyrl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ca.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ce.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/cs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/cy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/da.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/de.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/de_AT.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/de_CH.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/dz.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ee.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/el.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/en.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/eo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/es.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/es_419.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/es_AR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/es_BO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/es_CL.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/es_CO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/es_CR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/es_DO.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/es_EC.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/es_GT.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/es_HN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/es_MX.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/es_NI.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/es_PA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/es_PE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/es_PR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/es_PY.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/es_SV.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/es_US.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/es_VE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/et.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/eu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/fa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/fa_AF.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ff.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/fi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/fo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/fr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/fr_BE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/fr_CA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/fy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ga.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/gd.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/gl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/gu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/gv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ha.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/he.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/hi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/hr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/hu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/hy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/id.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ig.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/in.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/is.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/it.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/iw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ja.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ka.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ki.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/kk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/kl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/km.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/kn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ko.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ko_KP.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ks.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/kw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ky.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/lb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/lg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ln.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/lo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/lt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/lu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/lv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/meta.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/mg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/mk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ml.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/mn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/mo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/mr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ms.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/mt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/my.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/nb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/nd.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ne.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/nl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/nn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/no.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/om.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/or.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/os.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/pa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/pa_Arab.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/pl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ps.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/pt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/pt_PT.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/qu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/rm.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/rn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ro.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ro_MD.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ru.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ru_UA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/rw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/se.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/se_FI.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sh_BA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/si.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/so.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sq.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sr_BA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sr_Cyrl_BA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sr_Cyrl_ME.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sr_Cyrl_XK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sr_Latn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sr_Latn_BA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sr_Latn_ME.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sr_Latn_XK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sr_ME.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sr_XK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sw_CD.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/sw_KE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ta.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/te.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/th.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/tl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/to.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/tr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ug.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/uk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ur.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/ur_IN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/uz.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/uz_Arab.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/uz_Cyrl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/vi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/yi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/yo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/yo_BJ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/zh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/zh_HK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/zh_Hant.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/zh_Hant_HK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/regions/zu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/af.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/am.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/as.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/az.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/az_Cyrl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/be.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/bg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/bn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/bo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/br.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/bs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/bs_Cyrl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ca.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ce.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/cs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/cy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/da.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/de.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/dz.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ee.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/el.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/en.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/en_IN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/es.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/es_419.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/es_MX.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/et.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/eu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/fa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/fa_AF.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/fi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/fo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/fr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/fr_CA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/fy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ga.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/gd.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/gl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/gu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/he.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/hi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/hr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/hu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/hy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/id.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/in.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/is.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/it.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/iw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ja.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ka.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/kk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/km.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/kn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ko.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ks.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ky.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/lb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/lo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/lt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/lv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/meta.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/mk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ml.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/mn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/mr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ms.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/mt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/my.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/nb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ne.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/nl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/nn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/no.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/om.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/or.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/os.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/pa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/pa_Arab.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/pl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ps.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/pt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/pt_PT.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/rm.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ro.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ru.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/se.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/se_FI.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/sh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/si.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/sk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/sl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/so.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/sq.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/sr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/sr_Latn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/sv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/sw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ta.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/te.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/th.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ti.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/tl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/to.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/tr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ug.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/uk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/ur.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/uz.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/uz_Arab.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/uz_Cyrl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/vi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/yi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/zh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/zh_HK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/zh_Hant.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/zh_Hant_HK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/scripts/zu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/svn-info.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/data/version.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/stubs/Collator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/stubs/IntlDateFormatter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/stubs/Locale.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/stubs/NumberFormatter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Collator/AbstractCollatorTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Collator/CollatorTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Collator/Verification/CollatorTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/BundleEntryReaderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/Fixtures/NotAFile/en.php/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/Fixtures/build.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/Fixtures/en.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/Fixtures/en.res" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/Fixtures/en.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/Fixtures/json/en.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/Fixtures/json/en_Invalid.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/Fixtures/php/en.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/Fixtures/res/alias.res" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/Fixtures/res/mo.res" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/Fixtures/res/ro.res" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/Fixtures/res/ro_MD.res" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/Fixtures/res/root.res" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/Fixtures/txt/alias.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/Fixtures/txt/mo.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/Fixtures/txt/ro.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/Fixtures/txt/ro_MD.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/Fixtures/txt/root.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/IntlBundleReaderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/JsonBundleReaderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Reader/PhpBundleReaderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Writer/Fixtures/en.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Writer/Fixtures/en.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Writer/Fixtures/en.res" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Writer/Fixtures/en.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Writer/Fixtures/en_nofallback.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Writer/Fixtures/escaped.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Writer/Fixtures/rb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Writer/Fixtures/rb.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Writer/Fixtures/rb.res" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Writer/Fixtures/rb.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Writer/JsonBundleWriterTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Writer/PhpBundleWriterTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Bundle/Writer/TextBundleWriterTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Provider/AbstractCurrencyDataProviderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Provider/AbstractDataProviderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Provider/AbstractLanguageDataProviderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Provider/AbstractLocaleDataProviderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Provider/AbstractRegionDataProviderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Provider/AbstractScriptDataProviderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Provider/Json/JsonCurrencyDataProviderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Provider/Json/JsonLanguageDataProviderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Provider/Json/JsonLocaleDataProviderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Provider/Json/JsonRegionDataProviderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Provider/Json/JsonScriptDataProviderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Util/LocaleScannerTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Data/Util/RingBufferTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/DateFormatter/AbstractIntlDateFormatterTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/DateFormatter/IntlDateFormatterTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/DateFormatter/Verification/IntlDateFormatterTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Globals/AbstractIntlGlobalsTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Globals/IntlGlobalsTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Globals/Verification/IntlGlobalsTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Locale/AbstractLocaleTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Locale/LocaleTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Locale/Verification/LocaleTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/NumberFormatter/AbstractNumberFormatterTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/NumberFormatter/NumberFormatterTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/NumberFormatter/Verification/NumberFormatterTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Util/IcuVersionTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tests/Util/VersionTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Util/IcuVersion.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Util/IntlTestHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Util/SvnCommit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Util/SvnRepository.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Util/Version.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_project_name/app/Resources/views/default/index.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_project_name/src/AppBundle/Controller/DefaultController.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/My_site.iml" afterPath="$PROJECT_DIR$/.idea/My_site.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my_project_name/app/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/my_project_name/app/Resources/views/base.html.twig" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,10 +1213,56 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="show.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my_project_name/app/Resources/views/genus/show.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="438">
+              <caret line="34" column="16" lean-forward="false" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notes.react.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my_project_name/web/js/notes.react.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>made</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/my_project_name/web/app.php" />
+        <option value="$PROJECT_DIR$/my_project_name/src/AppBundle/Controller/GenusController.php" />
+        <option value="$PROJECT_DIR$/my_project_name/web/js/notes.react.js" />
+        <option value="$PROJECT_DIR$/my_project_name/app/Resources/views/base.html.twig" />
+        <option value="$PROJECT_DIR$/my_project_name/app/Resources/views/genus/show.html.twig" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -41,8 +1291,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -69,6 +1319,120 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My_site" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_project_name" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My_site" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_project_name" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My_site" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_project_name" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My_site" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_project_name" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My_site" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_project_name" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="genus" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -76,6 +1440,76 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="Symfony2.SettingsForm" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OpenServer\OpenServer\domains\My_site\my_project_name\app\Resources\views\genus" />
+      <recent name="D:\OpenServer\OpenServer\domains\My_site\my_project_name\app\Resources\views" />
+      <recent name="D:\OpenServer\OpenServer\domains\My_site\my_project_name\web" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OpenServer\OpenServer\domains\My_site\my_project_name" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -90,24 +1524,33 @@
       <workItem from="1492039886079" duration="864000" />
       <workItem from="1492041888928" duration="1734000" />
       <workItem from="1492112614299" duration="2277000" />
-      <workItem from="1492116516735" duration="156000" />
+      <workItem from="1492116516735" duration="671000" />
+      <workItem from="1492164088109" duration="5766000" />
+      <workItem from="1492207392408" duration="2512000" />
+      <workItem from="1492237906061" duration="13902000" />
+      <workItem from="1492278990613" duration="4499000" />
+      <workItem from="1492316623131" duration="9000" />
+      <workItem from="1492316879991" duration="616000" />
+      <workItem from="1492321194423" duration="133000" />
+      <workItem from="1492321454245" duration="228000" />
+      <workItem from="1492321840130" duration="783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5031000" />
+    <option name="totallyTimeSpent" value="33994000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08547655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18532526" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32405892" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24696356" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -115,7 +1558,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -129,5 +1572,59 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/my_project_name/app/Resources/views/base.html.twig" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/finish/app/Resources/views/genus/show.html.twig" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/finish/app/Resources/views/base.html.twig" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/app/Resources/views/genus/show.html.twig" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/web/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/src/AppBundle/Controller/GenusController.php" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/app/Resources/views/genus/show.html.twig" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/web/js/notes.react.js" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/app/Resources/views/base.html.twig" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/src/AppBundle/Controller/GenusController.php" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/app/Resources/views/genus/show.html.twig" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/web/app.php" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/web/app_dev.php" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/src/AppBundle/Controller/GenusController.php" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/app/Resources/views/genus/show.html.twig" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/src/AppBundle/Controller/DefaultController.php" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Controller/Controller.php" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/web/app_dev.php" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/web/app.php" />
+    <entry file="file://$PROJECT_DIR$/Intl.php" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/start/tutorial/app/Resources/views/base.html.twig" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/web/css/styles.css" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/web/images/ryan.jpeg" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/web/images/octopus-rubescens.jpg" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/web/images/leanna.jpeg" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/web/images/aquanote-logo.png" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/web/vendor/bootstrap/css/bootstrap.min.css.map" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/web/vendor/bootstrap/css/bootstrap.css.map" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/web/vendor/bootstrap/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/finish/web/js/notes.react.js" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/src/AppBundle/Controller/GenusController.php" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/finish/src/AppBundle/Controller/GenusController.php" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/finish/app/Resources/views/base.html.twig" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/app/Resources/views/base.html.twig" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/finish/app/Resources/views/genus/show.html.twig" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/web/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/my_project_name/web/js/notes.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_project_name/app/Resources/views/genus/show.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="34" column="16" lean-forward="false" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

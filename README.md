@@ -1,19 +1,11 @@
-Intl Component
-=============
+## You've got the Code for Joyful Development with Symfony 3. Yeehaw!
 
-A PHP replacement layer for the C intl extension that also provides access to
-the localization data of the ICU library.
+Hi there! Inside this code download you'll find the following things:
 
-The replacement layer is limited to the locale "en". If you want to use other
-locales, you should [install the intl PHP extension] [0] instead.
+* A `start/` directory: how the project looked at the *start* of the tutorial
 
-Resources
----------
+* A `finish/` directory: how the project looked after we did all the cool coding
 
-  * [Documentation](https://symfony.com/doc/current/components/intl.html)
-  * [Contributing](https://symfony.com/doc/current/contributing/index.html)
-  * [Report issues](https://github.com/symfony/symfony/issues) and
-    [send Pull Requests](https://github.com/symfony/symfony/pulls)
-    in the [main Symfony repository](https://github.com/symfony/symfony)
-
-[0]: http://www.php.net/manual/en/intl.setup.php
+In each directory, you'll find more details about how to setup the project.
+But if you have any questions, just post a comment on the course page and
+ask!
