@@ -1,9 +1,12 @@
 imports:
     - { resource: config.yml }
 
+parameters:
+    cache_type: array
+
 framework:
     router:
-        resource: '%kernel.root_dir%/config/routing_dev.yml'
+        resource: "%kernel.root_dir%/config/routing_dev.yml"
         strict_requirements: true
     profiler: { only_exceptions: false }
 
@@ -14,21 +17,39 @@ web_profiler:
 monolog:
     handlers:
         main:
-            type: stream
-            path: '%kernel.logs_dir%/%kernel.environment%.log'
-            level: debug
-            channels: ['!event']
+            type:   stream
+            path:   "%kernel.logs_dir%/%kernel.environment%.log"
+            level:  debug
         console:
-            type: console
-            channels: ['!event', '!doctrine']
+            type:   console
+            bubble: false
+            verbosity_levels:
+                VERBOSITY_VERBOSE: INFO
+                VERBOSITY_VERY_VERBOSE: DEBUG
+            channels: ["!doctrine"]
+        console_very_verbose:
+            type:   console
+            bubble: false
+            verbosity_levels:
+                VERBOSITY_VERBOSE: NOTICE
+                VERBOSITY_VERY_VERBOSE: NOTICE
+                VERBOSITY_DEBUG: DEBUG
+            channels: ["doctrine"]
         # uncomment to get logging in your browser
         # you may have to allow bigger header sizes in your Web server configuration
-        #firephp:
-        #    type: firephp
-        #    level: info
+        firephp:
+            type:   firephp
+            level:  info
         #chromephp:
-        #    type: chromephp
-        #    level: info
+        #    type:   chromephp
+        #    level:  info
 
 #swiftmailer:
-#    delivery_addresses: ['me@example.com']
+#    delivery_address: me@example.com
+
+#урок 9 удаляем
+#doctrine_cache:
+  #  providers:
+     #   my_markdown_cache:
+    #        type: array
+
