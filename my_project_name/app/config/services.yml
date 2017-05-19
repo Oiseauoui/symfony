@@ -28,4 +28,9 @@ services:
            tags:
                - { name: doctrine.event_subscriber }
 
+    app.form.help_form_extenion:
+            class: AppBundle\Form\TypeExtension\HelpFormExtension
+            autowire: true
+            tags:
+                - { name: form.type_extension, extended_type: Symfony\Component\Form\Extension\Core\Type\FormType }
 

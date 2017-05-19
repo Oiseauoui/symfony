@@ -42,6 +42,7 @@ twig:
         thousands_separator: ','
     form_themes:
         - bootstrap_3_layout.html.twig
+        - _formTheme.html.twig
 
 # Doctrine Configuration
 doctrine:
@@ -80,3 +81,10 @@ doctrine_cache:
             file_system:
                 directory: %kernel.cache_dir%/markdown_cache
                   #/tmp/doctrine_cache
+stof_doctrine_extensions:
+    default_locale: en_US
+    orm:
+        default:
+            sluggable: true
+
+

@@ -8,6 +8,7 @@
         <tr>
             <th>Genus</th>
             <th># of species</th>
+            <th># of scientists</th>
             <th>Last updated</th>
         </tr>
         </thead>
@@ -17,11 +18,17 @@
                 <tr>
                     <td>
                         <a href="{{ path('genus_show', {
-                            'genusName':genus.name
+                            'slug':genus.slug
                         }) }}">{{ genus.name }}</a>
                     </td>
 
                     <td>{{ genus.speciesCount }}</td>
+
+                    <td>
+                        {{ genus.genusScientists|length }}
+                        ({{ genus.getExpertScientists |length}} experts)
+
+                    </td>
                     <td>
                         {{ genus.updatedAt|date('Y-m-d') }}
                     </td>

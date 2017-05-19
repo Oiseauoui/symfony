@@ -45,6 +45,7 @@
       <sourceFolder url="file://$MODULE_DIR$/vendor/michelf/php-markdown" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/Apc/beta" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/annotations/lib" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/behat/transliterator" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/annotations" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/cache" />
@@ -63,6 +64,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/orm" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/friendsofsymfony/user-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/gedmo/doctrine-extensions" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/incenteev/composer-parameter-handler" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/jdorn/sql-formatter" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/knplabs/knp-markdown-bundle" />
@@ -77,6 +79,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/sensio/framework-extra-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/sensio/generator-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/sensiolabs/security-checker" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/stof/doctrine-extensions-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/swiftmailer/swiftmailer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/monolog-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/phpunit-bridge" />
@@ -119,6 +122,7 @@
     <orderEntry type="module-library">
       <library name="PHP" type="php">
         <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/behat/transliterator" />
           <root url="file://$MODULE_DIR$/vendor/composer" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/annotations" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/cache" />
@@ -137,6 +141,7 @@
           <root url="file://$MODULE_DIR$/vendor/doctrine/orm" />
           <root url="file://$MODULE_DIR$/vendor/friendsofsymfony/user-bundle" />
           <root url="file://$MODULE_DIR$/vendor/fzaninotto/faker" />
+          <root url="file://$MODULE_DIR$/vendor/gedmo/doctrine-extensions" />
           <root url="file://$MODULE_DIR$/vendor/incenteev/composer-parameter-handler" />
           <root url="file://$MODULE_DIR$/vendor/jdorn/sql-formatter" />
           <root url="file://$MODULE_DIR$/vendor/knplabs/knp-markdown-bundle" />
@@ -151,6 +156,7 @@
           <root url="file://$MODULE_DIR$/vendor/sensio/framework-extra-bundle" />
           <root url="file://$MODULE_DIR$/vendor/sensio/generator-bundle" />
           <root url="file://$MODULE_DIR$/vendor/sensiolabs/security-checker" />
+          <root url="file://$MODULE_DIR$/vendor/stof/doctrine-extensions-bundle" />
           <root url="file://$MODULE_DIR$/vendor/swiftmailer/swiftmailer" />
           <root url="file://$MODULE_DIR$/vendor/symfony/monolog-bundle" />
           <root url="file://$MODULE_DIR$/vendor/symfony/phpunit-bridge" />
@@ -167,6 +173,7 @@
           <root url="file://$MODULE_DIR$/vendor/zendframework/zend-eventmanager" />
         </CLASSES>
         <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/behat/transliterator" />
           <root url="file://$MODULE_DIR$/vendor/composer" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/annotations" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/cache" />
@@ -185,6 +192,7 @@
           <root url="file://$MODULE_DIR$/vendor/doctrine/orm" />
           <root url="file://$MODULE_DIR$/vendor/friendsofsymfony/user-bundle" />
           <root url="file://$MODULE_DIR$/vendor/fzaninotto/faker" />
+          <root url="file://$MODULE_DIR$/vendor/gedmo/doctrine-extensions" />
           <root url="file://$MODULE_DIR$/vendor/incenteev/composer-parameter-handler" />
           <root url="file://$MODULE_DIR$/vendor/jdorn/sql-formatter" />
           <root url="file://$MODULE_DIR$/vendor/knplabs/knp-markdown-bundle" />
@@ -199,6 +207,7 @@
           <root url="file://$MODULE_DIR$/vendor/sensio/framework-extra-bundle" />
           <root url="file://$MODULE_DIR$/vendor/sensio/generator-bundle" />
           <root url="file://$MODULE_DIR$/vendor/sensiolabs/security-checker" />
+          <root url="file://$MODULE_DIR$/vendor/stof/doctrine-extensions-bundle" />
           <root url="file://$MODULE_DIR$/vendor/swiftmailer/swiftmailer" />
           <root url="file://$MODULE_DIR$/vendor/symfony/monolog-bundle" />
           <root url="file://$MODULE_DIR$/vendor/symfony/phpunit-bridge" />
